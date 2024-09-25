@@ -1,9 +1,5 @@
 # Introdução aos testes de performance com k6
 
-<h1 align="left">
-    <img src=".github/logo-stiker.svg" width="250px">
-</h1>
-
 # User API
 
 ## 🔖 Requisitos funcionais
@@ -53,11 +49,4 @@ cd curso-k6-basico/api
 yarn install
 yarn dev
 ```
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feito com 💜 &nbsp;por Fernando Papito 👋 &nbsp;[Meu linkedin](https://www.linkedin.com/in/papitoio/)
+# performance-k6
